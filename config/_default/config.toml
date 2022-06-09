@@ -15,22 +15,6 @@ copyright = "© Adexia. All rights reserved"
         title = "Twitter"
         icon = "fa-twitter"
         url = "#"
-    [[params.social]]
-        title = "Facebook"
-        icon = "fa-facebook-f"
-        url = "#"
-    [[params.social]]
-        title = "GitHub"
-        icon = "fa-github"
-        url = "#"
-    [[params.social]]
-        title = "LinkedIn"
-        icon = "fa-linkedin-in"
-        url = "#"
-    [[params.social]]
-        title = "Creative Commons"
-        icon = "fa-creative-commons"
-        url = "https://creativecommons.org/"
 
 
     [params.footer]
