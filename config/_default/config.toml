@@ -1,0 +1,52 @@
+baseURL = "https://adexia.ch/"
+languageCode = "en-us"
+title = "Adexia"
+theme = "hugo-arcana"
+copyright = "© Adexia. All rights reserved"
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    description = "Expertise en protection incendie"
+    show_post_dates = false
+
+    [[params.social]]
+        title = "Twitter"
+        icon = "fa-twitter"
+        url = "#"
+    [[params.social]]
+        title = "Facebook"
+        icon = "fa-facebook-f"
+        url = "#"
+    [[params.social]]
+        title = "GitHub"
+        icon = "fa-github"
+        url = "#"
+    [[params.social]]
+        title = "LinkedIn"
+        icon = "fa-linkedin-in"
+        url = "#"
+    [[params.social]]
+        title = "Creative Commons"
+        icon = "fa-creative-commons"
+        url = "https://creativecommons.org/"
+
+
+    [params.footer]
+
+        [[params.footer.links]]
+            header = "Contact"
+        [[params.footer.links.links]]
+            title = "Adexia SA, Route des Jeunes 105A, 1212 Grand-Lancy, Genève, Suisse"
+            url = "https://www.google.com/maps/place/Voisins+du+105+-+Coworking+Caf%C3%A9/@46.176503,6.1293072,19z/data=!4m13!1m7!3m6!1s0x478c7b1ed689610b:0x4de971916576c910!2sRte+des+Jeunes+105A,+1227+Carouge,+Suisse!3b1!8m2!3d46.1765102!4d6.1298537!3m4!1s0x478c7b1ed40fd7e9:0x12f0791175c7bc67!8m2!3d46.1762816!4d6.1294514"
+        [[params.footer.links.links]]
+            title = "+41 79 889 89 78"
+            url = "#"
+        [[params.footer.links.links]]
+            title = "info@adexia.ch"
+            url = "#"
+
+
+
+

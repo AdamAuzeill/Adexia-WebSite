@@ -1,0 +1,49 @@
+banner:
+  enable: true
+  image: "images/adexia-and-hands.jpg"
+
+#  button:
+#    contents: "Learn More"
+#    url: "#"
+highlight:
+  enable: true
+
+items:
+  - type: heading
+    heading: >
+      Réaliser un concept de protection incendie?
+      Évaluer votre niveau de protection incendie?
+    contents: Notre expertise est à votre service.
+  - type: cta
+    contents: NOS ATOUTS
+  - type: highlights
+    items_per_row: 2
+    items:
+    - title: Disponibilité
+      icon: fa-comments
+      content: >
+        Disponibilité et flexibilité, tout au long du projet pour assurer un véritable suivi du projet.
+    - title: Indépendance
+      icon: fa-dove
+      content: >
+        Notre indépendance est la garantie de la préservation des intérêts du Maître d’Ouvrage.
+    - title: Expérience
+      icon: fa-fire-alt
+      content: >
+        10 ans d’expérience dans la Protection Incendie, une équipe entièrement qualifiée et diplômée.
+    - title: Expertise locale
+      icon: fa-tasks
+      content: >
+        Une connaissance fine des prescriptions, des exigences et des autorités cantonales (Genève et Vaud).
+  - type: cta
+    contents: NOS PRESTATIONS
+  - type: posts
+    content_type: nos prestations
+    max: 5
+  - type: cta
+    contents: NOTRE ÉQUIPE
+  - type: posts
+    content_type: notre équipe
+
+
+
